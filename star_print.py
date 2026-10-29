@@ -1,3 +1,3 @@
 def print_stars():
-    print('*'*10)
+    print("*")
 print(print_stars())
